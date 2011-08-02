@@ -1,0 +1,17 @@
+<settings>
+<generalOptions imagesXML="images.xml" styleCSS="style.css" bannerWidth="377" bannerHeight="235" randomImages="false" randomTransitions="true" imageFitting="bestFit" autoStart="true" firstWithTransition="true" autoTiming="true" pauseOnMouseOver="false" loadNextImageInBack="true" backgroundColor="" />
+<transitions value="1" />
+<imageEffects type="none" zoomPercent="20" duration="5" direction="left" hZoomPos="random" vZoomPos="random" />
+<preloaderOptions show="true" hAlign="center" vAlign="center" padding="20" size="30" />
+<controlsOptions show="false" hPos="right" vPos="bottom" padding="10" alignment="horizontal" numbersOverNextButton="true" />
+<controlsOrder value="" />
+<textOptions show="true" embedFont="false" hPos="right" vPos="bottom" width="0" height="0" padding="20" distance="15" />
+<textEffects slide="true" alpha="true" blur="true" appear="right" function="random" method="easeOut" duration="1.3" bodyDelay="0.7" />
+<textBackground type="asText" headColor="0xFFFFFF" alpha="70" bodyColor="0x2c2c2c" padding="5" cornerRadius="5" />
+<buttonOptions shape="square" size="20" symbolSize="60" spacing="4" />
+<buttonColors back="0xFFFFFF" symbol="0x222222" alpha="90" />
+<buttonColorsOver back="0xAAAAAA" symbol="0xFFFFFF" alpha="100" />
+<numberColors back="0xF6EED3" symbol="0x222222" alpha="85" />
+<numberColorsOver back="0xA59F88" symbol="0xFFFFFF" alpha="100" />
+<selectedNumberColors back="0xFFFFFF" symbol="0x000000" alpha="100" />
+</settings>

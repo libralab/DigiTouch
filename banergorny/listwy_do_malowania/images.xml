@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This is the full list of specific particularities which you can set for each image. Next to each property is the corresponding overall setting of the Banner.
+When you specify one of these properties as an XML attribute for each image, the corresponding overall setting of the Banner will be ignored.
+
+Particular Property				Overall Property
+_____________________________________________________________
+effect							imageEffects -> type
+zoompercent						imageEffects -> zoomPercent
+dur								imageEffects -> duration
+direction						imageEffects -> direction
+hzoompos						imageEffects -> hZoomPos
+vzoompos						imageEffects -> vZoomPos
+hpos							textOptions -> hPos
+vpos							textOptions -> vPos
+width							textOptions -> width
+height							textOptions -> height
+slide							textEffects -> slide
+appear							textEffects -> appear
+func							textEffects -> function
+type							textBackground -> type
+transition (a transition ID from the transitions list)
+duration (duration for each image but change the value of autoTiming to false in settings.xml file)
+-->
+
+<slideshow>
+
+	
+	<photo image="fot1.jpg" url="/Katalog/1069_908_krono-original/7387_parquet-design.aspx" target="_self" duration="5" >
+	<![CDATA[<head>Listwy do malowania.</head><body>Już w sprzedaży!</body>]]></photo>
+
+	<photo image="fot2.jpg" url="/Katalog/1069_908_krono-original/7387_parquet-design.aspx" target="_self" duration="5" >
+	<![CDATA[<head>Listwy do malowania.</head><body>Kolor bez ograniczeń!</body>]]></photo>	
+	
+	
+</slideshow>

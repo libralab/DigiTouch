@@ -1,0 +1,1 @@
+﻿package {	import flash.events.*;	import flash.display.*;	import flash.text.Font;	import flash.text.TextField;	import flash.text.TextFormat;	import flash.text.*;	import flash.events.MouseEvent;	import flash.net.*;	//klasa widoku sektora stadionu	public class MCButton extends MovieClip	{		public var adress:String;	}}

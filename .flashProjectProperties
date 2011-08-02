@@ -1,0 +1,23 @@
+<projectDescription>
+  <id>1310250519374</id>
+  <name>Kronoarena</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///HD/Users/xxx/Library/Application Support/Adobe/Flash CS4/pl/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///HD/Users/xxx/Library/Application Support/Adobe/Flash CS4/pl/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///HD/Users/xxx/Desktop/DigiTouch/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="project.fla">file:///HD/Users/xxx/Desktop/DigiTouch/project.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="TweenMovieClips.as">file:///HD/Users/xxx/Desktop/DigiTouch/TweenMovieClips.as</uri>
+    <uri label="Main.as">file:///HD/Users/xxx/Desktop/DigiTouch/Main.as</uri>
+    <uri label="BottomBanners.as">file:///HD/Users/xxx/Desktop/DigiTouch/BottomBanners.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
